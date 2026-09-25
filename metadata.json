@@ -1,0 +1,6 @@
+{
+  "name": "ClassCatchup - Peer Notes for Absent Students",
+  "description": "The student-led classroom hub where absent students instantly access lecture notes, board snapshots, homework announcements, and AI catch-up summaries without having to text classmates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
